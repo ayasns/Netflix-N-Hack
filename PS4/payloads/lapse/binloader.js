@@ -197,7 +197,7 @@ function bin_loader_main() {
     logger.log("Listening on " + addr_str);
     logger.log("Send your ELF payload now...");
     logger.flush();
-    send_notification("Jailbreak OK!\nSend ELF to:\n" + addr_str);
+    send_notification("Binloader listening on:\n" + addr_str);
 
     // Accept client
     const sockaddr = malloc(16);
