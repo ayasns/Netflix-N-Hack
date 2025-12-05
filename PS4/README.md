@@ -15,6 +15,8 @@ Before proceeding, ensure the following:
 
 2. **PS4 Firmware version must be between 8.00 and 12.02** (required for the Lapse exploit)
 
+
+Need help? Ask me on [Discord](https://discord.gg/QMGHzzW89V)
 ---
 
 ## Downgrading Netflix
