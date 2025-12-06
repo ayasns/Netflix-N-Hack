@@ -442,7 +442,12 @@ class gadgets {
             case 'Gemini-U6-2':         // EU 6.000
                 break;
             case 'Gemini-U5-18':        // US 5.000
+            
                 break;
+            case 'Pollux-U53-7-J':
+            case 'Pollux-U53-7-E':
+            case 'Pollux-U53-7-A':
+                throw new Error("User error:You are on PS4. use the proxy.py inside the PS4 folder");
             default:
                 throw new Error("App version not supported");
         }
