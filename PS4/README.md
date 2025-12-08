@@ -40,7 +40,7 @@ and delete "download0_info.dat"
 pip install mitmproxy
 
 # Start the downgrade proxy
-mitmproxy -s downgrader.py --ssl-insecure
+mitmproxy -s downgrader.py --ssl-insecure --set stream_large_bodies=3m
 ```
 **Console Instructions**
 
