@@ -56,7 +56,7 @@ On your PS4:
 go into settings -> network -> set up internet connection ->  wifi or lan -> Custom -> automatic -> do not specify -> DNS Automatic -> automatic -> Proxy server **USE** -> enter your computer ip address port : 8080
 
 >[!TIP]
-> To get you local IP address, in a console run the command
+> To get your local IP address
 >Windows: Open CMD -> run `ipconfig` -> look under “IPv4 Address” in your active adapter (Wi-Fi/Ethernet).
 >
 >Linux: Run `ip a` → find your network interface (e.g., eth0, wlan0) → check the inet line.
