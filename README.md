@@ -277,4 +277,4 @@ If you see elfldr listening on port 9021 you can send your elf payload.
 - [Gezine](https://github.com/gezine) for help with exploit/Y2JB for reference and original lapse.js!
 - Rush for creating system backup, 256GB and 2TB M.2 Images, PS4 Extended Storage Images and hours of testing!!
 - [Jester](https://github.com/god-jester) for testing 2TB and devising easiest imaging method, and gathering all images for m.2!
-- [TeRex777] (https://x.com/TeRex777_) for PS5 App Extended Storage method. 
+- [TeRex777](https://x.com/TeRex777_) for PS5 App Extended Storage method. 
