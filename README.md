@@ -71,7 +71,7 @@ If you don't know if you have the license, you can still try flashing the extend
   [https://etcher.balena.io](https://etcher.balena.io/#download-etcher)
 
 #### Step 2: Download the Image Archive
-- Download the **`.7z` archive** for your region from the [**Releases** section.](https://github.com/earthonion/Netflix-N-Hack/releases/tag/External-Drive) For PS4 the Images are Netflix_PS4_xx.7z ,US/EU/AS to indicate the region they are for.
+- Download the **`.7z` archive** for your region from the [**Releases** section.](https://github.com/earthonion/Netflix-N-Hack/releases/tag/External-Drive) For PS4 the Images are Netflix_PS4_xx.7z ,US/EU/JP to indicate the region they are for.
 > [!NOTE]
 > Extended Storage does not require an exact capacity beyond the minimum of 256GB. Meaning that if your drive is 256GB you can use the image. If your drive is 500GB you can use the image. Or if it is 1TB you can use the image and etc up to 8TB. But if it is 250GB you cannot use the image.**
 - The `.7z` download size is roughly ~**95-200 MB** and around 400MB unpacked.
