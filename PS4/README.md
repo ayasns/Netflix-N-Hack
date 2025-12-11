@@ -86,6 +86,8 @@ Set your proxy in ps4 network settings to this:
 
 Then simply open Netflix 
 
+> [!NOTE]
+> blocking PSN is encouraged. please follow [this guide](https://consolemods.org/wiki/PS4:Blocking_OFW_Updates) for more information
 
 ### Host Locally
 
